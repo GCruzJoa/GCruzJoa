@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GCruzJoa
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning: A lot of things, including Xamarin Forms.
+- 🌱 I’m currently learning: Web Development with JavaScript and NodeJS.
 - 📫 How to reach me: Through LinkedIn as GCruzJoa.
 
 <!---
