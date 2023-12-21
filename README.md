@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GCruzJoa
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning: Web Development with JavaScript and NodeJS.
+- 🌱 I’m currently learning: Web Development with ASP.Net.
 - 📫 How to reach me: Through LinkedIn as GCruzJoa.
 
 <!---
